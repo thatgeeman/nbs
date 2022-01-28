@@ -1,2 +1,2 @@
-# misc-nbs
-A collection of notebooks with personal annotations to train deep learning models in PyTorch for various problems.
+# Notebooks 
+A collection of deep learning portfolio projects hosted as static jupyter notebooks with personal annotations.
